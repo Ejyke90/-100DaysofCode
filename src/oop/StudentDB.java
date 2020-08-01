@@ -5,10 +5,10 @@ public class StudentDB {
 	public static void main(String[] args) {
 		StudentDBase student1 = new StudentDBase("Alfred", "345989047");
 		
-		student1.enroll("Math 151");
-		student1.enroll("Physics 102");
-		student1.enroll("Chemistry 101");
-		student1.enroll("History 111");
+		student1.enroll("Math 221");
+		student1.enroll("Physics 202");
+		student1.enroll("Chemistry 201");
+		student1.enroll("History 211");
 		
 		//student1.showCourses();
 		//student1.checkingBalance();
