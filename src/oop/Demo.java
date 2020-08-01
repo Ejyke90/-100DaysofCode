@@ -33,7 +33,7 @@ public class Demo {
 		Human human1 = new Human();
 		
 		// then we define some properties
-		human1.name = "Beata";
+		human1.name = "Ginika";
 		human1.email = "sdn.net@gmail.com";
 		human1.phone = "07303089786";
 		
