@@ -31,10 +31,10 @@ public class Password {
 			}
 			br.close();
 		} catch (FileNotFoundException e) {
-			System.out.println("ERROR: File not found");
+			System.out.println("ERROR: File is not found");
 			e.printStackTrace();
 		} catch (IOException e) {
-			System.out.println("ERROR: Could not read file");
+			System.out.println("ERROR: Could not read  the file");
 			e.printStackTrace();
 		}
 				
