@@ -6,7 +6,7 @@ public class AccountApp {
 		LoanAcount la = new LoanAcount();
 		la.setRate();
 		la.newRate();
-		la.setTerm(20);
+		la.setTerm(30);
 		la.setAmmortSchedule();
 		
 		IRate account1 = new LoanAcount();
